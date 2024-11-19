@@ -20,3 +20,12 @@ Weapons
     Four Barrel Rocket Launcher (Halo Wars)
     Banished Plasma Caster (Halo Wars 2)
 
+Following mods make use of some or all of the tags
+
+[ANOTHER HALO 2 REVAMP](https://steamcommunity.com/sharedfiles/filedetails/?id=3014196088)
+[Halo 2: Flood Firefight](https://steamcommunity.com/sharedfiles/filedetails/?id=2972582880)
+[Combine Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=3341701894)
+[Halo 2 - Breaking the Foundation | Endless AI War](https://steamcommunity.com/sharedfiles/filedetails/?id=2936125940)
+[Containment Breached | Endless Halo 2 AI War](https://steamcommunity.com/sharedfiles/filedetails/?id=3232089119)
+[Halo 2 Battlegrounds (Outskirts)](https://steamcommunity.com/sharedfiles/filedetails/?id=3145184420)
+
