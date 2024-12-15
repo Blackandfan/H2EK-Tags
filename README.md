@@ -29,3 +29,8 @@ Following mods make use of some or all of the tags
 [Containment Breached | Endless Halo 2 AI War](https://steamcommunity.com/sharedfiles/filedetails/?id=3232089119)</br>
 [Halo 2 Battlegrounds (Outskirts)](https://steamcommunity.com/sharedfiles/filedetails/?id=3145184420)</br>
 
+
+Following mods disregard the credits requirement.
+
+[Halo 2: What if?](https://steamcommunity.com/sharedfiles/filedetails/?id=3110963564)</br>
+
