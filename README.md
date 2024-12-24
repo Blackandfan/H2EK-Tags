@@ -11,6 +11,7 @@ Characters
 	Brute Combatform
 	ODST Combatform
 	Jackal Combatform
+	Prophet Combatform
 	Heretic Ranger
 	Sentinel Knight
 
@@ -20,3 +21,16 @@ Weapons
     Four Barrel Rocket Launcher (Halo Wars)
     Banished Plasma Caster (Halo Wars 2)
 
+Following mods make use of some or all of the tags
+
+[ANOTHER HALO 2 REVAMP](https://steamcommunity.com/sharedfiles/filedetails/?id=3014196088)</br>
+[Halo 2: Flood Firefight](https://steamcommunity.com/sharedfiles/filedetails/?id=2972582880)</br>
+[Combine Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=3341701894)</br>
+[Halo 2 - Breaking the Foundation | Endless AI War](https://steamcommunity.com/sharedfiles/filedetails/?id=2936125940)</br>
+[Containment Breached | Endless Halo 2 AI War](https://steamcommunity.com/sharedfiles/filedetails/?id=3232089119)</br>
+[Halo 2 Battlegrounds (Outskirts)](https://steamcommunity.com/sharedfiles/filedetails/?id=3145184420)</br>
+
+
+Following mods disregard the credits requirement.
+
+[Halo 2: What if?](https://steamcommunity.com/sharedfiles/filedetails/?id=3110963564)</br>
