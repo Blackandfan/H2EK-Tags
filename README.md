@@ -12,6 +12,8 @@ Characters
 	ODST Combatform
 	Jackal Combatform
 	Prophet Combatform
+	Bugger Combatform
+	Swarm Combatform (Halo Wars infected bird)
 	Heretic Ranger
 	Sentinel Knight
 
