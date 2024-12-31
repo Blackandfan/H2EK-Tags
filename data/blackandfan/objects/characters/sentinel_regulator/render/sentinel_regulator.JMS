@@ -148,7 +148,7 @@ b_gun_housing_leaf_r
 18.6473941803	-2.5999145508	-16.9159507751
 
 ;### MATERIALS ###
-17
+15
 ;	<name>
 ;	<material name>
 
@@ -201,24 +201,16 @@ sentinel_aggressor_torn!%
 (12) L5 destroyed gun
 
 ;MATERIAL 12
-sentinel_aggressor.001
-(9) L5 destroyed l_arm
+sentinel_aggressor
+(8) L5 destroyed l_arm
 
 ;MATERIAL 13
-sentinel_aggressor.001
-(9) L5 destroyed r_arm
+sentinel_aggressor
+(8) L5 destroyed r_arm
 
 ;MATERIAL 14
-sentinel_aggressor.001
-(9) L5 destroyed hull
-
-;MATERIAL 15
-sentinel_aggressor.001
-(9) L5 destroyed head
-
-;MATERIAL 16
-sentinel_aggressor.001
-(9) L5 destroyed gun
+sentinel_aggressor
+(8) L5 destroyed hull
 
 ;### MARKERS ###
 17
@@ -52550,79 +52542,79 @@ body_destroyed
 4419	4420	4421
 
 ;TRIANGLE 1474
-15
+6
 4422	4423	4424
 
 ;TRIANGLE 1475
-15
+6
 4425	4426	4427
 
 ;TRIANGLE 1476
-15
+6
 4428	4429	4430
 
 ;TRIANGLE 1477
-15
+6
 4431	4432	4433
 
 ;TRIANGLE 1478
-15
+6
 4434	4435	4436
 
 ;TRIANGLE 1479
-16
+9
 4437	4438	4439
 
 ;TRIANGLE 1480
-16
+9
 4440	4441	4442
 
 ;TRIANGLE 1481
-16
+9
 4443	4444	4445
 
 ;TRIANGLE 1482
-16
+9
 4446	4447	4448
 
 ;TRIANGLE 1483
-16
+9
 4449	4450	4451
 
 ;TRIANGLE 1484
-16
+9
 4452	4453	4454
 
 ;TRIANGLE 1485
-16
+9
 4455	4456	4457
 
 ;TRIANGLE 1486
-16
+9
 4458	4459	4460
 
 ;TRIANGLE 1487
-16
+9
 4461	4462	4463
 
 ;TRIANGLE 1488
-16
+9
 4464	4465	4466
 
 ;TRIANGLE 1489
-16
+9
 4467	4468	4469
 
 ;TRIANGLE 1490
-16
+9
 4470	4471	4472
 
 ;TRIANGLE 1491
-16
+9
 4473	4474	4475
 
 ;TRIANGLE 1492
-16
+9
 4476	4477	4478
 
 ;TRIANGLE 1493
