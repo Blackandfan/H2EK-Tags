@@ -23,6 +23,7 @@ Weapons
     Machine Pistol (Spartan Strike)
     Four Barrel Rocket Launcher (Halo Wars)
     Banished Plasma Caster (Halo Wars 2)
+    Chair (Halo Wars)
 
 Following mods make use of some or all of the tags
 
