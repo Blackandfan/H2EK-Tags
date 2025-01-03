@@ -7,13 +7,14 @@ Included are tags and data files for a canceled mod project of mine. All require
 Characters
 
 	Carrierform with extra permutations
-	Honor Guard Elite Combatform
+	Elite Combatform
 	Brute Combatform
 	ODST Combatform
 	Jackal Combatform
 	Prophet Combatform
 	Bugger Combatform
 	Swarm Combatform (Halo Wars infected bird)
+ 	Spartan Combatform
 	Heretic Ranger
 	Sentinel Knight
 
