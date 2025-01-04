@@ -25,6 +25,10 @@ Weapons
     Banished Plasma Caster (Halo Wars 2)
     Chair (Halo Wars)
 
+Credits
+The Spartan Combatform tag makes use of some of Imperial Guardsman and D Flod Flags`s custom Spartan tags
+
+
 Following mods make use of some or all of the tags
 
 [ANOTHER HALO 2 REVAMP](https://steamcommunity.com/sharedfiles/filedetails/?id=3014196088)</br>
