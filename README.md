@@ -7,13 +7,14 @@ Included are tags and data files for a canceled mod project of mine. All require
 Characters
 
 	Carrierform with extra permutations
-	Honor Guard Elite Combatform
+	Elite Combatform
 	Brute Combatform
 	ODST Combatform
 	Jackal Combatform
 	Prophet Combatform
 	Bugger Combatform
 	Swarm Combatform (Halo Wars infected bird)
+ 	Spartan Combatform
 	Heretic Ranger
 	Sentinel Knight
 
@@ -22,6 +23,7 @@ Weapons
     Machine Pistol (Spartan Strike)
     Four Barrel Rocket Launcher (Halo Wars)
     Banished Plasma Caster (Halo Wars 2)
+    Chair (Halo Wars)
 
 Following mods make use of some or all of the tags
 
