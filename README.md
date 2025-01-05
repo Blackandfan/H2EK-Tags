@@ -4,6 +4,9 @@ You are free to use, remix, and adapt these files for non-commercial use, credit
 
 Included are tags and data files for a canceled mod project of mine. All required tags are included so its just drag&drop.
 
+You can also try out a few of those tags in a small test map of mine 
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3398121719)
+
 Characters
 
 	Carrierform with extra permutations
