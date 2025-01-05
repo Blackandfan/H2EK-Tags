@@ -18,6 +18,13 @@ Characters
 	Heretic Ranger
 	Sentinel Knight
 
+Bipeds (for flood reanimation)
+
+	Elite
+	Heretic Elite
+	ODST
+	Marine
+
 Weapons
 
     Machine Pistol (Spartan Strike)
