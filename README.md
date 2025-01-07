@@ -27,6 +27,9 @@ Bipeds (for flood reanimation)
 	Heretic Elite
 	ODST
 	Marine
+	Brute
+	Grunt
+	Jackal
 
 Weapons
 
