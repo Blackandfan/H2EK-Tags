@@ -44,6 +44,7 @@ The Spartan Combatform tag makes use of some of Imperial Guardsman and D Flod Fl
 
 Following mods make use of some or all of the tags
 
+[Vannity's Halo 2 Recut Mod 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=3397398383)</br>
 [ANOTHER HALO 2 REVAMP](https://steamcommunity.com/sharedfiles/filedetails/?id=3014196088)</br>
 [Halo 2: Flood Firefight](https://steamcommunity.com/sharedfiles/filedetails/?id=2972582880)</br>
 [Combine Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=3341701894)</br>
